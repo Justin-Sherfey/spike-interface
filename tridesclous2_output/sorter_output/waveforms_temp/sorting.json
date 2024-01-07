@@ -1,0 +1,11 @@
+{
+    "class": "spikeinterface.core.sortingfolder.NumpyFolderSorting",
+    "module": "spikeinterface",
+    "kwargs": {
+        "folder_path": "C:\\Users\\jsher\\spike_interface\\tridesclous2_output\\sorter_output\\sorting_temp"
+    },
+    "version": "0.99.1",
+    "relative_paths": false,
+    "annotations": {},
+    "properties": {}
+}

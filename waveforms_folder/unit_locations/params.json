@@ -1,0 +1,4 @@
+{
+    "method": "monopolar_triangulation",
+    "method_kwargs": {}
+}

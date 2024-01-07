@@ -1,0 +1,7 @@
+{
+    "ms_before": 1.5,
+    "ms_after": 2.5,
+    "max_spikes_per_unit": 300,
+    "return_scaled": true,
+    "dtype": "<f4"
+}

@@ -1,0 +1,45 @@
+{
+    "sorter_name": "tridesclous2",
+    "sorter_params": {
+        "apply_preprocessing": true,
+        "waveforms": {
+            "ms_before": 0.5,
+            "ms_after": 1.5,
+            "radius_um": 120.0
+        },
+        "filtering": {
+            "freq_min": 300.0,
+            "freq_max": 12000.0
+        },
+        "detection": {
+            "peak_sign": "neg",
+            "detect_threshold": 5,
+            "exclude_sweep_ms": 1.5,
+            "radius_um": 150.0
+        },
+        "selection": {
+            "n_peaks_per_channel": 5000,
+            "min_n_peaks": 20000
+        },
+        "features": {},
+        "svd": {
+            "n_components": 6
+        },
+        "clustering": {
+            "split_radius_um": 40.0,
+            "merge_radius_um": 40.0
+        },
+        "templates": {
+            "ms_before": 1.5,
+            "ms_after": 2.5
+        },
+        "matching": {
+            "peak_shift_ms": 0.2,
+            "radius_um": 100.0
+        },
+        "job_kwargs": {
+            "n_jobs": -1
+        },
+        "save_array": true
+    }
+}
