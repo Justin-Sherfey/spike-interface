@@ -2,10 +2,10 @@
     "class": "spikeinterface.core.binaryfolder.BinaryFolderRecording",
     "module": "spikeinterface",
     "kwargs": {
-        "folder_path": "..\\..\\AppData\\Local\\Temp\\spikeinterface_cache\\tmp229qgg32\\SYZIH2J3"
+        "folder_path": "C:\\Users\\jsher\\AppData\\Local\\Temp\\spikeinterface_cache\\tmp229qgg32\\SYZIH2J3"
     },
     "version": "0.99.1",
-    "relative_paths": true,
+    "relative_paths": false,
     "annotations": {
         "is_filtered": true,
         "probe_0_planar_contour": [

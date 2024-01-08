@@ -1,0 +1,334 @@
+{
+    "class": "spikeinterface.core.sortingfolder.NumpyFolderSorting",
+    "module": "spikeinterface",
+    "kwargs": {
+        "folder_path": "C:\\Users\\jsher\\spike_interface\\spykingcircus2_output\\sorter_output\\sorting"
+    },
+    "version": "0.99.1",
+    "relative_paths": false,
+    "annotations": {
+        "__sorting_info__": {
+            "recording": {
+                "class": "spikeinterface.core.binaryfolder.BinaryFolderRecording",
+                "module": "spikeinterface",
+                "kwargs": {
+                    "folder_path": "..\\..\\AppData\\Local\\Temp\\spikeinterface_cache\\tmp229qgg32\\SYZIH2J3"
+                },
+                "version": "0.99.1",
+                "relative_paths": true,
+                "annotations": {
+                    "is_filtered": true,
+                    "probe_0_planar_contour": [
+                        [
+                            -38.0,
+                            165.3125
+                        ],
+                        [
+                            -38.0,
+                            -149.6875
+                        ],
+                        [
+                            0.0,
+                            -229.6875
+                        ],
+                        [
+                            38.0,
+                            -149.6875
+                        ],
+                        [
+                            38.0,
+                            165.3125
+                        ]
+                    ],
+                    "probes_info": [
+                        {
+                            "model_name": "Neuronexus-32",
+                            "mearec_name": "Neuronexus-32",
+                            "mearec_description": null
+                        }
+                    ]
+                },
+                "properties": {
+                    "group": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "location": [
+                        [
+                            -18.0,
+                            -117.1875
+                        ],
+                        [
+                            -18.0,
+                            -92.1875
+                        ],
+                        [
+                            -18.0,
+                            -67.1875
+                        ],
+                        [
+                            -18.0,
+                            -42.1875
+                        ],
+                        [
+                            -18.0,
+                            -17.1875
+                        ],
+                        [
+                            -18.0,
+                            7.8125
+                        ],
+                        [
+                            -18.0,
+                            32.8125
+                        ],
+                        [
+                            -18.0,
+                            57.8125
+                        ],
+                        [
+                            -18.0,
+                            82.8125
+                        ],
+                        [
+                            -18.0,
+                            107.8125
+                        ],
+                        [
+                            0.0,
+                            -129.6875
+                        ],
+                        [
+                            0.0,
+                            -104.6875
+                        ],
+                        [
+                            0.0,
+                            -79.6875
+                        ],
+                        [
+                            0.0,
+                            -54.6875
+                        ],
+                        [
+                            0.0,
+                            -29.6875
+                        ],
+                        [
+                            0.0,
+                            -4.6875
+                        ],
+                        [
+                            0.0,
+                            20.3125
+                        ],
+                        [
+                            0.0,
+                            45.3125
+                        ],
+                        [
+                            0.0,
+                            70.3125
+                        ],
+                        [
+                            0.0,
+                            95.3125
+                        ],
+                        [
+                            0.0,
+                            120.3125
+                        ],
+                        [
+                            0.0,
+                            145.3125
+                        ],
+                        [
+                            18.0,
+                            -117.1875
+                        ],
+                        [
+                            18.0,
+                            -92.1875
+                        ],
+                        [
+                            18.0,
+                            -67.1875
+                        ],
+                        [
+                            18.0,
+                            -42.1875
+                        ],
+                        [
+                            18.0,
+                            -17.1875
+                        ],
+                        [
+                            18.0,
+                            7.8125
+                        ],
+                        [
+                            18.0,
+                            32.8125
+                        ],
+                        [
+                            18.0,
+                            57.8125
+                        ],
+                        [
+                            18.0,
+                            82.8125
+                        ],
+                        [
+                            18.0,
+                            107.8125
+                        ]
+                    ],
+                    "gain_to_uV": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "offset_to_uV": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            },
+            "params": {
+                "sorter_name": "spykingcircus2",
+                "sorter_params": {
+                    "general": {
+                        "ms_before": 2,
+                        "ms_after": 2,
+                        "radius_um": 100
+                    },
+                    "waveforms": {
+                        "max_spikes_per_unit": 200,
+                        "overwrite": true,
+                        "sparse": true,
+                        "method": "ptp",
+                        "threshold": 1
+                    },
+                    "filtering": {
+                        "freq_min": 150,
+                        "dtype": "float32"
+                    },
+                    "detection": {
+                        "peak_sign": "neg",
+                        "detect_threshold": 5
+                    },
+                    "selection": {
+                        "n_peaks_per_channel": 5000,
+                        "min_n_peaks": 20000
+                    },
+                    "localization": {},
+                    "clustering": {},
+                    "matching": {},
+                    "apply_preprocessing": true,
+                    "shared_memory": true,
+                    "job_kwargs": {
+                        "n_jobs": -1
+                    }
+                }
+            },
+            "log": {
+                "sorter_name": "spykingcircus2",
+                "sorter_version": "2.0",
+                "datetime": "2024-01-07T21:20:33.979867",
+                "runtime_trace": [],
+                "error": false,
+                "run_time": 45.21086299999999
+            }
+        }
+    },
+    "properties": {}
+}
